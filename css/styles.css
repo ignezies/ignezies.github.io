@@ -4096,3 +4096,9 @@ img.u-pull-left {
 .d-none {
     display: none !important;
 }
+
+
+
+.preTitleyellow{
+color:var(--color-1);
+}

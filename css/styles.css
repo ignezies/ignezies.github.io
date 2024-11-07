@@ -4099,6 +4099,17 @@ img.u-pull-left {
 
 
 
-.preTitleyellow{
-color:var(--color-1);
+.preTitleyellow {
+    color: var(--color-1);
+}
+
+
+.modelImg {
+    height: 330px;
+    width: 350px;
+    margin-bottom: 0px !important;
+}
+
+.modal-popup__desc p {
+    margin-bottom: 5px;
 }
